@@ -1,0 +1,9 @@
+A logica:
+
+Iniciar um loop "for" começando em 1 e terminando em 10
+Dentro do loop, inicie outro loop "for" começando em 1 e terminando em 10
+No segundo loop, multiplique o índice atual do segundo loop pelo índice atual do primeiro loop e armazene o resultado em uma variável
+Imprima o resultado da multiplicação atual, formatado para mostrar o índice atual do primeiro loop e o índice atual do segundo loop
+Repita os passos 3 e 4 até que o segundo loop esteja completo
+Repita os passos 2 a 5 para cada índice do primeiro loop
+fim do algoritmo
