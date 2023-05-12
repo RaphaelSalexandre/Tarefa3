@@ -1,0 +1,9 @@
+Algoritmo:
+
+Leia o valor de Y do usuário
+Leia o valor de A do usuário
+Inicie um loop "for" que começa em 1 e termina em Y
+Dentro do loop, eleve A à potência do índice atual do loop usando a função "pow" e armazene o resultado em uma variável
+Imprima o resultado da potência atual
+Repita o passo 4 e 5 até que o loop seja concluído
+Após isso pode se concluir o algoritmo!
